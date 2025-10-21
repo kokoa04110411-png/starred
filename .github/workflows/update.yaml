@@ -1,4 +1,4 @@
-name: update starred
+name: hama-sora
 on:
   workflow_dispatch:
   schedule:
